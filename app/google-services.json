@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "611418701924",
+    "firebase_url": "https://doorifyapp-1c3a6.firebaseio.com",
+    "project_id": "doorifyapp-1c3a6",
+    "storage_bucket": "doorifyapp-1c3a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611418701924:android:023b31bd27858b21",
+        "android_client_info": {
+          "package_name": "philipp.doorifyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611418701924-nvi3iot1e17nl16opua8k9akjdn6ki47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "philipp.doorifyapp",
+            "certificate_hash": "816557e1f949d7ca1d5aa3f5df0c778afd95aca2"
+          }
+        },
+        {
+          "client_id": "611418701924-rkrrma6gh10n64lehp1gc6q9b2uh0ksd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkVbJeGk80Fz0YfbHWJLoKwz_F_UPppcE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611418701924-rkrrma6gh10n64lehp1gc6q9b2uh0ksd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

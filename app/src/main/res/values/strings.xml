@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DoorifyApp</string>
+    <string name="titel_tueren">Türen</string>
+    <string name="titel_dashboard">Dashboard</string>
+    <string name="titel_nachrichten">Nachrichten</string>
+
+    <string name="create_name">Name</string>
+    <string name="create_email">E-Mail</string>
+    <string name="create_passwort">Passwort</string>
+    <string name="create_w_passwort">Passwort wiederholen</string>
+    <string name="create_code">Tür-Code (Optional)</string>
+    <string name="create_create">Account erstellen</string>
+    <string name="create_login">Du hast bereits einen Account? Dann logge dich hier in diesen ein!</string>
+
+    <string name="login_email">E-Mail</string>
+    <string name="login_passwort">Passwort</string>
+    <string name="login_login">Login</string>
+    <string name="login_erstellen">Du hast noch keinen Acount? Erstelle dir hier einen neuen!</string>
+
+
+</resources>
